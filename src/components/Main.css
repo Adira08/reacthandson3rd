@@ -1,0 +1,120 @@
+.main{
+    padding-top:40px;
+}
+
+#naming{
+    font-family: 'Playfair Display', serif;
+    font-size:25px;
+    font-weight:bold;
+    color:#000000;
+}
+
+#depart{
+    font-family: 'Playfair Display', serif;
+    font-size:25px;
+    font-weight: bold;
+    color:#000000;
+}
+
+#rate{
+    font-family: 'Playfair Display', serif;
+    font-size:25px;
+    font-weight: bold;
+    color:#000000;
+}
+
+.name{
+    width: 300px;
+    height:50px;
+    font-size:25px;
+    font-weight: bold;
+    border-radius: 40px;
+    text-align: center;
+    border: none;
+    margin-top:3vw;
+    border: 2px solid black;
+    color: #438200;
+}
+
+.dep{
+    width: 300px;
+    height:50px;
+    font-size:25px;
+    font-weight: bold;
+    border-radius: 40px;
+    margin-top: 40px;
+    text-align: center;
+    border: none;
+    border: 2px solid black;
+    color: #438200;
+}
+
+.rating{
+    width: 300px;
+    height:50px;
+    font-size:25px;
+    font-weight: bold;
+    border-radius: 40px;
+    margin-top: 40px;
+    text-align: center;
+    border: none;
+    border: 2px solid black;
+    color: #438200;
+}
+
+#fsubmit{
+    width: 250px;
+    height: 70px;
+    border-radius: 40px;
+    font-size: 30px;
+    margin-top: 50px;
+    background-color: #dae80b;
+    border:2px solid black;
+}
+
+#fsubmit:hover{
+    background-color: rgb(9, 255, 0);
+}
+
+
+.box{
+    width:1300px;
+    margin: auto;
+    background-color:#b1edff;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    margin-top: 50px;
+    border: 2px solid black;
+    margin-bottom: 40px;
+    
+}
+  
+.boxItem{
+    height:50px;
+    width: 45%;
+    border-radius:30px;
+    border: 2px solid black;
+    background-color:#36f310;
+    list-style-type: none;
+    text-align: center;
+    margin-bottom: 40px;
+    margin-top: 40px;
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight:bold;
+    text-align: center;
+}
+
+.backbut{
+    width: 250px;
+    height: 70px;
+    border-radius: 40px;
+    font-size: 30px;
+    margin-top: 50px;
+    background-color: #dae80b;
+    border:2px solid black;
+}
+.backbut:hover{
+    background-color: #dae80b;
+}
